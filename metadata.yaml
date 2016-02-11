@@ -1,0 +1,30 @@
+_repo: The-story-of-Hungary_50038
+contributor:
+  contributor:
+    agent_name: Heilprin, Louis
+    gutenberg_agent_id: '45672'
+    url: http://www.gutenberg.org/2009/agents/45672
+creator:
+  author:
+    agent_name: Vámbéry, Ármin
+    aliases:
+    - Vamberi, Armin German
+    - Bamberger, Hermann
+    - Vambery, Armin
+    - Vamberger, Hermann
+    birthdate: 1832
+    deathdate: 1913
+    gutenberg_agent_id: '41340'
+    url: http://www.gutenberg.org/2009/agents/41340
+    wikipedia: http://en.wikipedia.org/wiki/%C3%81rmin_V%C3%A1mb%C3%A9ry
+description: ''
+gutenberg_issued: '2015-09-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '50038'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+title: The story of Hungary
+url: http://www.gutenberg.org/ebooks/50038
