@@ -1,9 +1,13 @@
 _repo: The-story-of-Hungary_50038
+_version: 0.1.0
 contributor:
   contributor:
     agent_name: Heilprin, Louis
     gutenberg_agent_id: '45672'
     url: http://www.gutenberg.org/2009/agents/45672
+covers:
+- cover_type: archival
+  image_path: 50038-h/images/cover.jpg
 creator:
   author:
     agent_name: Vámbéry, Ármin
@@ -18,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/41340
     wikipedia: http://en.wikipedia.org/wiki/%C3%81rmin_V%C3%A1mb%C3%A9ry
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50038#The-story-of-Hungary
 gutenberg_issued: '2015-09-22'
 gutenberg_type: Text
 identifiers:
